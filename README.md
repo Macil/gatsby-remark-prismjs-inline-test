@@ -7,6 +7,8 @@
   Gatsby minimal TypeScript starter
 </h1>
 
+This repo is a minimal example of the Gatsby bug https://github.com/gatsbyjs/gatsby/issues/37292.
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
